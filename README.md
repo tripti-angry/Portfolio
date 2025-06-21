@@ -1,4 +1,4 @@
-Check out my portfolio at: https://portfolio-phi-rust-fjkirvv5fu.vercel.app/
+Check out my portfolio at: [https://portfolio-phi-rust-fjkirvv5fu.vercel.app/](https://portfolio-tripti-kash.vercel.app/)
 
 ## ⚙️ Tech Stack
 
