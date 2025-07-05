@@ -98,7 +98,7 @@ export const ProjectsSection = () => {
           <a
             className="cosmic-button w-fit flex items-center mx-auto gap-2"
             target="_blank"
-            href="https://github.com/tripti-angry"
+            href="https://github.com/triptikashyap19"
           >
             Check My Github <ArrowRight size={16} />
           </a>
